@@ -637,3 +637,19 @@ footer p {
     z-index: -999;
     opacity: 0.3;
 }
+
+.top-logo-cta {
+    position: absolute;
+    top: -50%;
+    right: 5%;
+    z-index: -999;
+    opacity: 0.05;
+    width: 25%;
+}
+
+.btn-outline-gradient-fill {
+    color: #fc73b4;
+    border: 3px solid;
+    border: 3px solid;
+    border: 3px solid;
+}
