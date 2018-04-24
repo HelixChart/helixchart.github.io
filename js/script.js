@@ -83,4 +83,21 @@ $(function() {
         });
     }
 
+    // Typed
+    var typed = new Typed(".typed", {
+        strings: [
+            "Charts. ^2000",
+            "Diagrams. ^2000",
+            "Flowcharts. ^2000",
+            "Mind Maps. ^2000",
+            "Workflows. ^2000",
+        ],
+        startDelay: 200,
+        typeSpeed: 150,
+        backSpeed: 150,
+        loop: true,
+        smartBackspace: true
+    });
+
+
 }); /* End Fn */
